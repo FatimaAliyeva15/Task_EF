@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Asus\\source\\repos\\TaskEntityFramework\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C18EF9CD-8C4C-444B-9E7E-5D37A394346A}|Data\\Data.csproj|c:\\users\\asus\\source\\repos\\taskentityframework\\data\\concretes\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C18EF9CD-8C4C-444B-9E7E-5D37A394346A}|Data\\Data.csproj|solutionrelative:data\\concretes\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C6D380B-EA23-4442-982C-3CCE4F68E60C}|Core\\Core.csproj|C:\\Users\\Asus\\source\\repos\\TaskEntityFramework\\core\\abstracts\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C6D380B-EA23-4442-982C-3CCE4F68E60C}|Core\\Core.csproj|solutionrelative:core\\abstracts\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{468589B8-EA6D-4179-9590-B34757482DC6}|Business\\Business.csproj|C:\\Users\\Asus\\source\\repos\\TaskEntityFramework\\business\\services\\abstracts\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{468589B8-EA6D-4179-9590-B34757482DC6}|Business\\Business.csproj|solutionrelative:business\\services\\abstracts\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C18EF9CD-8C4C-444B-9E7E-5D37A394346A}|Data\\Data.csproj|C:\\Users\\Asus\\source\\repos\\TaskEntityFramework\\data\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C18EF9CD-8C4C-444B-9E7E-5D37A394346A}|Data\\Data.csproj|solutionrelative:data\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C6D380B-EA23-4442-982C-3CCE4F68E60C}|Core\\Core.csproj|C:\\Users\\Asus\\source\\repos\\TaskEntityFramework\\core\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C6D380B-EA23-4442-982C-3CCE4F68E60C}|Core\\Core.csproj|solutionrelative:core\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{468589B8-EA6D-4179-9590-B34757482DC6}|Business\\Business.csproj|C:\\Users\\Asus\\source\\repos\\TaskEntityFramework\\business\\services\\concretes\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{468589B8-EA6D-4179-9590-B34757482DC6}|Business\\Business.csproj|solutionrelative:business\\services\\concretes\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AF23EF3-E31E-461B-B3F2-42062730272F}|TaskEntityFramework\\TaskEntityFramework.csproj|C:\\Users\\Asus\\source\\repos\\TaskEntityFramework\\taskentityframework\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AF23EF3-E31E-461B-B3F2-42062730272F}|TaskEntityFramework\\TaskEntityFramework.csproj|solutionrelative:taskentityframework\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AF23EF3-E31E-461B-B3F2-42062730272F}|TaskEntityFramework\\TaskEntityFramework.csproj|C:\\Users\\Asus\\source\\repos\\TaskEntityFramework\\taskentityframework\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AF23EF3-E31E-461B-B3F2-42062730272F}|TaskEntityFramework\\TaskEntityFramework.csproj|solutionrelative:taskentityframework\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AF23EF3-E31E-461B-B3F2-42062730272F}|TaskEntityFramework\\TaskEntityFramework.csproj|C:\\Users\\Asus\\source\\repos\\TaskEntityFramework\\taskentityframework\\taskentityframework.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6AF23EF3-E31E-461B-B3F2-42062730272F}|TaskEntityFramework\\TaskEntityFramework.csproj|solutionrelative:taskentityframework\\taskentityframework.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C18EF9CD-8C4C-444B-9E7E-5D37A394346A}|Data\\Data.csproj|C:\\Users\\Asus\\source\\repos\\TaskEntityFramework\\Data\\Migrations\\20240502184629_StudentsTableCreated.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C18EF9CD-8C4C-444B-9E7E-5D37A394346A}|Data\\Data.csproj|solutionrelative:Data\\Migrations\\20240502184629_StudentsTableCreated.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\TaskEntityFramework\\Data\\Concretes\\StudentRepository.cs",
+              "RelativeDocumentMoniker": "Data\\Concretes\\StudentRepository.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\TaskEntityFramework\\Data\\Concretes\\StudentRepository.cs",
+              "RelativeToolTip": "Data\\Concretes\\StudentRepository.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAwwCEAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T18:11:38.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\TaskEntityFramework\\TaskEntityFramework\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "TaskEntityFramework\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\TaskEntityFramework\\TaskEntityFramework\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "TaskEntityFramework\\Controllers\\StudentController.cs",
+              "ViewState": "AQIAAEQAAAAAAAAAAAAmwFYAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T19:39:47.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20240502184629_StudentsTableCreated.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\TaskEntityFramework\\Data\\Migrations\\20240502184629_StudentsTableCreated.cs",
+              "RelativeDocumentMoniker": "Data\\Migrations\\20240502184629_StudentsTableCreated.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\TaskEntityFramework\\Data\\Migrations\\20240502184629_StudentsTableCreated.cs",
+              "RelativeToolTip": "Data\\Migrations\\20240502184629_StudentsTableCreated.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T18:46:29.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TaskEntityFramework",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\TaskEntityFramework\\TaskEntityFramework\\TaskEntityFramework.csproj",
+              "RelativeDocumentMoniker": "TaskEntityFramework\\TaskEntityFramework.csproj",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\TaskEntityFramework\\TaskEntityFramework\\TaskEntityFramework.csproj",
+              "RelativeToolTip": "TaskEntityFramework\\TaskEntityFramework.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-02T18:14:22.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StudentService.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\TaskEntityFramework\\Business\\Services\\Concretes\\StudentService.cs",
+              "RelativeDocumentMoniker": "Business\\Services\\Concretes\\StudentService.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\TaskEntityFramework\\Business\\Services\\Concretes\\StudentService.cs",
+              "RelativeToolTip": "Business\\Services\\Concretes\\StudentService.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAowBgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T18:14:11.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IStudentService.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\TaskEntityFramework\\Business\\Services\\Abstracts\\IStudentService.cs",
+              "RelativeDocumentMoniker": "Business\\Services\\Abstracts\\IStudentService.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\TaskEntityFramework\\Business\\Services\\Abstracts\\IStudentService.cs",
+              "RelativeToolTip": "Business\\Services\\Abstracts\\IStudentService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T18:13:47.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\TaskEntityFramework\\Data\\DAL\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\DAL\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\TaskEntityFramework\\Data\\DAL\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\DAL\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T18:10:55.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IStudentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\TaskEntityFramework\\Core\\Abstracts\\IStudentRepository.cs",
+              "RelativeDocumentMoniker": "Core\\Abstracts\\IStudentRepository.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\TaskEntityFramework\\Core\\Abstracts\\IStudentRepository.cs",
+              "RelativeToolTip": "Core\\Abstracts\\IStudentRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T18:10:23.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\TaskEntityFramework\\Core\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "Core\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\TaskEntityFramework\\Core\\Models\\Student.cs",
+              "RelativeToolTip": "Core\\Models\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T18:07:44.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\TaskEntityFramework\\TaskEntityFramework\\Program.cs",
+              "RelativeDocumentMoniker": "TaskEntityFramework\\Program.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\TaskEntityFramework\\TaskEntityFramework\\Program.cs",
+              "RelativeToolTip": "TaskEntityFramework\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T18:05:55.82Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
